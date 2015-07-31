@@ -1,0 +1,23 @@
+Company:
+
+IvyCamp
+
+Application Name:
+
+IvyCamp
+
+API Key:
+
+75fcybemoqsci1
+
+Secret Key:
+
+ABj1SfJUvTH8mCPx
+
+OAuth User Token:
+
+d6291deb-a3e8-43f7-851c-30d0569a3cfe
+
+OAuth User Secret:
+
+df2a6d0c-6fc3-4db7-a82f-ed1b95185fd7

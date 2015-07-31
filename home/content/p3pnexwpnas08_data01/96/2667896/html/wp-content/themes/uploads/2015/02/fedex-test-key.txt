@@ -1,0 +1,43 @@
+Me
+
+Developer Test Key:	 VOYAACAhlF9V9Fej
+
+
+Test Account Number:	 510087283
+Test	Meter Number:	 118658514
+
+
+est	FedEx Office Integrator ID:	 123
+Test	Client Product ID:	 TEST
+Test	Client Product Version:	 9999
+
+
+madhu
+
+Developer Test Key:	 d1PjdWjebpgB0get
+
+Test Account Number:	 604794021
+Test	Meter Number:	 118658520
+
+
+
+Store
+
+Developer Test Key: WeoYvBGW8zy0FyEe
+
+WeoYvBGW8zy0FyEe
+
+WeoYvBGW8zy0FyEe
+
+Test Account Number:	 604794021
+604794021
+604794021
+Test	Meter Number:	 118658515
+118658515
+118658515
+
+
+key:  d1PjdWjebpgB0get
+
+Test Account Number:	 604794021
+Test	Meter Number:	 118658520
